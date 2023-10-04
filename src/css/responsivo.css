@@ -1,0 +1,60 @@
+@media(max-width: 656px){
+    main{
+        height: 465px;
+        width: 300px;
+        position: relative;
+        left: 14%;
+    }
+    .descricao{
+        font-size: 10px;
+
+    }
+
+    img{
+        width: 270px;
+    }
+}
+
+
+@media(max-height: 703px){
+    main{
+        height: 500px;
+        width: 320px;
+        position: relative;
+        left: 27%;
+    }
+
+    img{
+        width: 290px;
+    }
+}
+@media(min-height: 466px){
+    main{
+        position: relative;
+        left: 36%;
+    }
+}
+
+@media(min-width: 984.62px){
+    main{
+        width: 345px;
+        position: relative;
+        left: 80%;
+    }
+
+    img{
+        width: 300px;
+    }
+}
+@media(min-width: 351.92px){
+main{
+    width: 300px;
+    position: relative;
+    left: 39%;
+}
+
+img{
+    width: 275px;
+}
+
+}
